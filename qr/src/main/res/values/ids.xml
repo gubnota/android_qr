@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="qr" />
+    <item name="qr_code" type="id" />
+    <item name="qr_button" type="id" />
+    <item name="scanner_view" type="id" />
+    <item name="code_text" type="id" />
+    <item name="back_from_qr" type="id" />
+</resources>

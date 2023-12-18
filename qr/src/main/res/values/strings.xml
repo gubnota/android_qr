@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Гопикар</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_capture">CaptureActivity</string>
+    <string name="title_activity_br">BrActivity</string>
+    <string name="barcode_value">Считанное значение: %1$s</string>
+    <string name="back">Назад</string>
+
+</resources>
